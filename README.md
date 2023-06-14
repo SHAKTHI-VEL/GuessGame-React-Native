@@ -10,7 +10,7 @@ https://github.com/SHAKTHI-VEL/GuessGame/assets/93870684/f3a676a9-25bb-47b6-9247
 
 ## Installation
 
-To run this project locally, you need to have Flutter and Dart installed on your machine. Follow the steps below to get started:
+To run this project locally, you need to have Node installed on your machine. Follow the steps below to get started:
 
 1. Clone this repository to your local machine using the following command:
 
