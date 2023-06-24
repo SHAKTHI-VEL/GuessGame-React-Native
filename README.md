@@ -27,7 +27,7 @@ To run this project locally, you need to have Node installed on your machine. Fo
 3. Run the following command to fetch the dependencies:
 
    ```
-   npm init
+   npm install
    ```
 
 4. Finally, run the app using the following command:
