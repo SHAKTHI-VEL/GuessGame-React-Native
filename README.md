@@ -5,7 +5,11 @@ This is a Guess Game built using React Native, a popular cross-platform framewor
 
 ## Screenshots
 
-https://github.com/SHAKTHI-VEL/GuessGame/assets/93870684/f3a676a9-25bb-47b6-9247-170746bc9bb8
+
+
+https://github.com/SHAKTHI-VEL/GuessGame-React-Native/assets/93870684/7d345a7f-62f9-43b3-86b1-1cf44873cccb
+
+
 
 
 ## Installation
